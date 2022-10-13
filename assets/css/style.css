@@ -5,3 +5,14 @@
 .logo img {
     width: 100%;
 }
+
+.returnal-bg {
+    background-image: url("/assets/img/jumbo-bg.png");
+    background-size:;
+    background-repeat: no-repeat;
+    
+}
+
+.jumbo {
+    height: 60vh;
+}
