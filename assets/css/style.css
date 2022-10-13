@@ -8,11 +8,10 @@
 
 .returnal-bg {
     background-image: url("/assets/img/jumbo-bg.png");
-    background-size:;
+    height: 800px;
     background-repeat: no-repeat;
-    
+    background-size: cover;
+      
 }
 
-.jumbo {
-    height: 60vh;
-}
+
