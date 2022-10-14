@@ -68,9 +68,12 @@ body {
 }
 
 .bg-night {
-    background-color: rgb(15, 15, 88);
+    background-color: #161C3B;
 }
 
+.bg-foot {
+    background-color: #00439C;
+}
 /* .play-plus {
     padding: 100px 0 100px;
 } */
