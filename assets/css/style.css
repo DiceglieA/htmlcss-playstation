@@ -52,7 +52,7 @@ body {
     padding: 200px 0 100px;
 }
 
-.toolkit {
+/* .toolkit {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -60,7 +60,7 @@ body {
 
 .tools {
     width: calc(100% / 5);
-}
+} */
 
 .takes-bg {
     background-image: url("/assets/img/it-takes-two-hero-banner-desktop.jpg");
@@ -69,4 +69,8 @@ body {
     background-size: cover;
     background-position: center;
       
+}
+
+.play-plus {
+    padding: 100px 0 100px;
 }
