@@ -5,8 +5,8 @@
 .logo img {
     width: 100%;
 }
-body {
-    margin-top: 135px;
+main {
+    margin-top: 50px;
 }
 
 
@@ -46,6 +46,19 @@ body {
     background-size: cover;
     background-position: center;
       
+}
+
+header {
+    position: relative;
+}
+
+.sony-bar {
+    position: absolute;
+    top: 0;
+}
+
+.jumbo {
+    padding: 250px 0 150px;
 }
 
 /* .toolkit {
