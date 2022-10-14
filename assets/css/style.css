@@ -71,6 +71,10 @@ body {
       
 }
 
-.play-plus {
-    padding: 100px 0 100px;
+.bg-night {
+    background-color: rgb(15, 15, 88);
 }
+
+/* .play-plus {
+    padding: 100px 0 100px;
+} */
