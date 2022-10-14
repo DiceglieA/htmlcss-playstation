@@ -5,6 +5,10 @@
 .logo img {
     width: 100%;
 }
+body {
+    margin-top: 135px;
+}
+
 
 .dropdown {
     position: static;
@@ -37,11 +41,15 @@
 
 .returnal-bg {
     background-image: url("/assets/img/jumbo-bg.png");
-    height: 800px;
+    /* height: 800px; */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
       
+}
+
+.jumbo {
+    padding: 200px 0 100px;
 }
 
 .toolkit {
@@ -56,7 +64,7 @@
 
 .takes-bg {
     background-image: url("/assets/img/it-takes-two-hero-banner-desktop.jpg");
-    height: 800px;
+    /* height: 800px; */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
