@@ -8,9 +8,7 @@
 main {
     margin-top: 135px;
 }
-
-
-
+/* nav */
 .nav-link:hover {
     color: black;
 }
@@ -48,31 +46,30 @@ main {
     background-color: white;
 }
 
+/* jumbo */
+
 .returnal-bg {
     background-image: url("/assets/img/jumbo-bg.png");
     /* height: 800px; */
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
-      
+    background-position: center;     
 }
 
-
+.jumbo {
+    padding: 250px 0 150px;
+}
 
 /* header {
     position: relative;
 }
-
-
 
 .sony-bar {
     position: absolute;
     top: 0;
 } */
 
-.jumbo {
-    padding: 250px 0 150px;
-}
+/*  Games selection */
 
 .games {
 	padding: 3px;
@@ -104,6 +101,22 @@ main {
 .tools {
     width: calc(100% / 5);
 } */
+ 
+/* Playstation-kit */
+
+.opacity-50:hover {
+    opacity: 1 !important;
+}
+
+.blue-bord{
+    border-bottom: 2px solid transparent;
+}
+
+ .blue-bord-block,.blue-bord:hover{
+    border-bottom: 2px solid #00439C;
+}
+
+
 
 .takes-bg {
     background-image: url("/assets/img/it-takes-two-hero-banner-desktop.jpg");
@@ -116,6 +129,8 @@ main {
 .bg-night {
     background-color: #161C3B;
 }
+
+/* Footer */
 
 .bg-foot {
     background-color: #00439C;
@@ -135,3 +150,26 @@ footer a:hover {
 /* .play-plus {
     padding: 100px 0 100px;
 } */
+
+/* Bottoni hover */
+
+.btn-dark:hover{
+    box-shadow: inset 0 0 0 3px white;
+}
+
+.btn-danger:hover{
+    box-shadow: inset 0 0 0 3px black;
+    color: white;
+}
+
+.btn-primary:hover{
+    box-shadow: inset 0 0 0 3px white;
+}
+
+.btn-secondary:hover{
+    box-shadow: inset 0 0 0 3px grey
+}
+
+.btn-light:hover{
+    box-shadow: inset 0 0 0 3px darkblue;
+}
