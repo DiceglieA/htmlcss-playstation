@@ -13,6 +13,10 @@ main {
     color: black;
 }
 
+.dropdown-toggle.show::after{
+    transform: rotate(180deg);
+}
+
 .dropdown {
     position: static;
 }
